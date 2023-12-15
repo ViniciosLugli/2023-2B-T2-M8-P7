@@ -1,6 +1,6 @@
 # OpenAI Audio Processor
 
-## Project Description
+## Description
 
 This project provides a comprehensive solution for audio processing that includes speech-to-text translation, text translation into Brazilian Portuguese, and text-to-speech conversion. It leverages OpenAI's powerful models to perform these tasks.
 
@@ -43,3 +43,6 @@ python main.py <path_to_audio_file>
 -   The synthesized speech is saved in `output/audio_raw.mp3` and `output/audio_translated.mp3`.
 
 ## Demo
+[demo](https://github.com/ViniciosLugli/2023-2B-T2-M8-P7/assets/40807526/0d324b86-829a-4f9f-b43e-cbce72b17fc2)
+
+You can find the texts and listen to the audios on [output folder](output/)
